@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./civlicaesarisde00westgoog_0002.png"; bbox 0 0 2982 4448; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 479 2242 1098 2348">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 479 2242 1098 2348">
+     <span class='ocr_line' id='line_1_1' title="bbox 479 2242 1098 2348; baseline -0.006 -15"><span class='ocrx_word' id='word_1_1' title='bbox 479 2245 681 2333; x_wconf 67' lang='lat' dir='ltr'><strong>hamato</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 707 2243 884 2348; x_wconf 65' lang='lat' dir='ltr'>aolleqe</span> <span class='ocrx_word' id='word_1_3' title='bbox 908 2242 1098 2346; x_wconf 65' lang='lat' dir='ltr'>libram</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 467 2677 1111 2750">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 467 2677 1111 2750">
+     <span class='ocr_line' id='line_1_2' title="bbox 467 2677 1111 2750; baseline -0.003 -2"><span class='ocrx_word' id='word_1_4' title='bbox 467 2677 1111 2750; x_wconf 38' lang='lat' dir='ltr'>....2..Edward...H.....Athe11t.0n„..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1496 4448">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1496 4448">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1496 4448; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1496 4448; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
